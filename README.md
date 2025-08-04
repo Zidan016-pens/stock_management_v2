@@ -1,3 +1,2 @@
 # stock_management
-
-A new Flutter project.
+This application is intended to manage stock of goods, to record when stock comes in or goes out.
